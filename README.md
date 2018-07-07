@@ -8,3 +8,7 @@ This is a quick-reference application to help medical professionals treat pediat
 - American Academy of Pediatrics. "The Apgar score." Advances in neonatal care: official journal of the National Association of Neonatal Nurses 6, no. 4 (2006): 220.
 - Broselow (2011) Broselow Pediatric Emergency Tape, Vital Signs, Inc, Totowa, NJ; accessed on the [Family Practice Notebook](https://fpnotebook.com/mobile/ER/Pharm/index.htm).
 - [Image by Pixabay](https://www.pexels.com/photo/ambulance-architecture-building-business-263402/)
+
+## Privacy Policy
+
+There is no information collected in this application. It does not communicate with any network or web services. There is also no persisted data.
