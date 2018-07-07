@@ -1,0 +1,184 @@
+{
+    "broselow": [
+        {
+            "weight": 5,
+            "backgroundColor": "#BDBDBD",
+            "heartRate": "120-180 / minute",
+            "respiratoryRate": "40-60 / minute",
+            "systolicBloodPressure": "65-95 mmHm",
+            "age": "0-2 months",
+            "length": "57-61 cm",
+            "etSize": "3.0 mm cuffed, 3.5 mm uncuffed",
+            "etDepth": "10-10.5 cm",
+            "laryngoscopeBlade": "1 Miller"
+        },
+        {
+            "weight": 7,
+            "backgroundColor": "#F06292",
+            "heartRate": "120-180 / minute",
+            "respiratoryRate": "40-60 / minute",
+            "systolicBloodPressure": "65-95 mmHm",
+            "age": "3-6 months",
+            "length": "59.5-66.5 cm",
+            "etSize": "3.0 mm cuffed, 3.5 mm uncuffed",
+            "etDepth": "10-10.5 cm",
+            "laryngoscopeBlade": "1 Miller"
+        },
+        {
+            "weight": 9,
+            "backgroundColor": "#E57373",
+            "heartRate": "110-185 / minute",
+            "respiratoryRate": "25-40 / minute",
+            "systolicBloodPressure": "65-105 mmHm",
+            "age": "7-10 months",
+            "length": "66.5-74 cm",
+            "etSize": "3.0 mm cuffed, 3.5 mm uncuffed",
+            "etDepth": "10.5-11 cm",
+            "laryngoscopeBlade": "1 Miller"
+        },
+        {
+            "weight": 11,
+            "backgroundColor": "#CE93D8",
+            "heartRate": "110-170 / minute",
+            "respiratoryRate": "20-30 / minute",
+            "systolicBloodPressure": "70-110 mmHm",
+            "age": "11-18 months",
+            "length": "74-84.5 cm",
+            "etSize": "3.5 mm cuffed, 4.0 mm uncuffed",
+            "etDepth": "11-12 cm",
+            "laryngoscopeBlade": "1 Miller"
+        },
+        {
+            "weight": 14,
+            "backgroundColor": "#FFF176",
+            "heartRate": "90-150 / minute",
+            "respiratoryRate": "20-30 / minute",
+            "systolicBloodPressure": "70-110 mmHm",
+            "age": "18-36 months",
+            "length": "84.5-97.5 cm",
+            "etSize": "4.0 mm cuffed, 4.5 mm uncuffed",
+            "etDepth": "12.5-13.5 cm",
+            "laryngoscopeBlade": "2 Miller"
+        },
+        {
+            "weight": 18,
+            "backgroundColor": "#FFFFFF",
+            "heartRate": "75-135 / minute",
+            "respiratoryRate": "20-30 / minute",
+            "systolicBloodPressure": "80-110 mmHm",
+            "age": "3-4 years",
+            "length": "97.5-110 cm",
+            "etSize": "4.5 mm cuffed, 5.0 mm uncuffed",
+            "etDepth": "14-15 cm",
+            "laryngoscopeBlade": "2 Miller or Macintosh"
+        },
+        {
+            "weight": 23,
+            "backgroundColor": "#64B5F6",
+            "heartRate": "65-135 / minute",
+            "respiratoryRate": "20-30 / minute",
+            "systolicBloodPressure": "80-110 mmHm",
+            "age": "5-6 years",
+            "length": "110-112 cm",
+            "etSize": "5.0 mm cuffed, 5.5 mm uncuffed",
+            "etDepth": "15.5-16.5 cm",
+            "laryngoscopeBlade": "2 Miller or Macintosh"
+        },
+        {
+            "weight": 29,
+            "backgroundColor": "#FFB74D",
+            "heartRate": "60-120 / minute",
+            "respiratoryRate": "12-25 / minute",
+            "systolicBloodPressure": "90-115 mmHm",
+            "age": "7-9 years",
+            "length": "122-137",
+            "etSize": "6.0 mm cuffed",
+            "etDepth": "17-18 cm",
+            "laryngoscopeBlade": "2-3 Miller or Macintosh"
+        },
+        {
+            "weight": 37,
+            "backgroundColor": "#81C784",
+            "heartRate": "60-120 / minute",
+            "respiratoryRate": "12-25 / minute",
+            "systolicBloodPressure": "95-120 mmHm",
+            "age": "10-12 years",
+            "length": "137-150 cm",
+            "etSize": "6.5 mm cuffed",
+            "etDepth": "18.5-19.5 cm",
+            "laryngoscopeBlade": "2-3 Miller or Macintosh"
+        }
+    ],
+    "drugs": [
+        {
+            "name": "Adenosine",
+            "schedule": 0.1,
+            "remarks": "Initial dose: 0.1 mg/kg IV (maximum: 6 mg for first dose) as rapidly as possible, followed by immediate rapid flush of the IV catheter with 5–10 mL of normal saline."
+        },
+        {
+            "name": "Amiodarone",
+            "schedule": 5,
+            "remarks": "IV/IO: 5 mg/kg over 20 mins (maximum: 300 mg); may be repeated up to a total daily dose of 15 mg/kg. If pulseless, rapid bolus.",
+            "max": 300 
+        },
+        {
+            "name": "Atropine",
+            "schedule": 0.02,
+            "remarks": "IV/IO: 0.02 mg/kg. Minimum single dose: 0.1 mg. Maximum single dose: 0.5 mg for a child, 1.0 mg for an adolescent.",
+            "max": 1
+        },
+        {
+            "name": "Midazolam",
+            "schedule": 0.1,
+            "remarks": "IV: 0.05–0.10 mg/kg given over 2–3 min (maximum single dose: 5 mg).",
+            "max": 5
+        },
+        {
+            "name": "Epinephrine 1:10,000",
+            "schedule": 0.01,
+            "remarks": "IV/IO 0.01 mg/kg of 1:10 000 solution (maximum: 1 mg), repeated every 3–5 min. ET 0.1 mg/kg of 1:1000 solution (maximum: 10 mg).",
+            "max": 1
+        },
+        {
+            "name": "Lidocaine",
+            "schedule": 1,
+            "remarks": "IV/IO: 1 mg/kg (maximum: 100 mg), repeat every 5–10 min to desired effect or until maximum dose of 3 mg/kg is given."
+        },
+        {
+            "name": "Naloxone",
+            "schedule": 0.1,
+            "remarks": "Newborn IV/IM: 0.1 mg/kg (ET route not recommended for newborn infants). Older IV/IO/IM/SC: <5 y old or <20 kg: 0.1 mg/kg; ≥5 y old or ≥20 kg: 2 mg.",
+            "max": 2
+        }
+    ],
+    "apgar": {
+        "headers": [
+            " ",
+            "0",
+            "1",
+            "2"
+        ],
+        "rows": [
+            ["Color",
+            "Blue or Pale",
+            "Acrocyantoic",
+            "Completely Pink"],
+            ["Heart Rate",
+            "Absent",
+            "< 100 min",
+            "> 100 min"],
+            ["Reflex Irritability",
+            "No response",
+            "Grimace or avoidance",
+            "Cry or Active Withdrawal"],
+            ["Muscle Tone",
+            "Limp",
+            "Some flexion",
+            "Active flexion"],
+            ["Respiration",
+            "Absent",
+            "Weak Cry; Hypoventilation",
+            "Good, crying"]
+        ]
+    }
+}
