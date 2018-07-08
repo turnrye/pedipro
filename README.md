@@ -1,4 +1,4 @@
-![Pedi Pro logo](screenshots/icon@2x.png "Logo Title Text 1")
+![Pedi Pro logo](screenshots/icon.png "Logo Title Text 1")
 
 # Pedi Pro for EMS
 
