@@ -4,8 +4,7 @@
 
 Your quick-reference to treat pediatric patients in an emergency setting. Written in [React Native](https://github.com/facebook/react-native) using [React Native Paper](https://github.com/callstack/react-native-paper). Have your medical control certify that this application complies with your protocols and procedures; while the content of this application is collected from established, peer-reviewed articles, the authors make no claim or warranty of its validity. In short – check the data with your staff before using it.
 
-![Get it on iOS](https://devimages-cdn.apple.com/app-store/marketing/guidelines/images/badge-example-preferred.png)
-[![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.pedipro)
+Due to FDA regulation, this application is not currently available through commercial distribution means. I'm currently evaluating the feasibility of distributing this after receiving Premarket Notification 510(k) approval.
 
 ## References
 
